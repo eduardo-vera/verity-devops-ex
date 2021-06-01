@@ -1,2 +1,2 @@
 # verity-devops-ex
-# demo 01
+# demo 02
