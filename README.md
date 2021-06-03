@@ -1,4 +1,3 @@
 # verity-devops-ex
 # demo 02
-# demo 02
-# attempt 1853
+# attempt 1941
